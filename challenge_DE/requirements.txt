@@ -1,0 +1,15 @@
+memory-profiler==0.61.0
+cProfile
+pyspark
+typing
+datetime
+os
+time
+re
+emoji
+pstats
+io
+memory_profiler
+subprocess
+matplotlib
+seaborn
